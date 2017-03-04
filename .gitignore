@@ -7,3 +7,4 @@ dist-prod
 npm-debug.log
 readme/
 coverage
+.recime

@@ -1,19 +1,21 @@
 {
-	"author": "Compare Global Group <ramon.van.de.ven@compareglobalgroup.com>",
-	"dependencies": {},
-	"description": "Chatter the chat",
-	"keywords": [
-		"Recime",
-		"Bot"
-	],
-	"license": "MIT",
-	"main": "main.js",
-	"name": "cgg-facebook-bot",
-	"private": true,
-	"scripts": {
-		"build": "tsc",
-		"preinstall": "npm install -g typescript"
-	},
-	"title": "CGG Facebook Bot",
-	"version": "1.0.1"
+  "author": "Compare Global Group <ramon.van.de.ven@compareglobalgroup.com>",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "description": "Chatter the chat",
+  "keywords": [
+    "Recime",
+    "Bot"
+  ],
+  "license": "MIT",
+  "main": "main.js",
+  "name": "cgg-facebook-bot",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "preinstall": "npm install -g typescript"
+  },
+  "title": "CGG Facebook Bot",
+  "version": "1.0.1"
 }
