@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+node_modules
+bower_components
+dist
+dist-prod
+npm-debug.log
+readme/
+coverage
